@@ -1,4 +1,3 @@
-<img width="425" height="726" alt="Снимок экрана 2026-05-24 234010" src="https://github.com/user-attachments/assets/41db8164-fbf9-4abf-8f87-0ae90a907436" />
 # NPZ ⚡️
 
 Современный VPN-клиент для быстрого и стабильного доступа в интернет без ограничений.
